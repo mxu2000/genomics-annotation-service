@@ -11,7 +11,7 @@ The GAS website is available here: **https://maxinexu.mpcs-cc.com:4433**
 
 # Note:
 
-My AWS credentials have expired since the class for which this project was built has ended.
+My EC2 instances have been deleted since the class for which this project was built has ended.
 
 # Process explanations:
 
